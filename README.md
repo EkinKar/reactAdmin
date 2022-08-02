@@ -1,3 +1,7 @@
+# App Overview
+Admin dashboard demo created using React, scss.\
+Check it out from the following link: https://ekinkar.github.io/reactAdmin/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
